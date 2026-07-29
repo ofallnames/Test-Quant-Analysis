@@ -12,6 +12,7 @@
     <OutputPath>.</OutputPath>
     <Name>Test quant analysis</Name>
     <RootNamespace>Test quant analaysis</RootNamespace>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
